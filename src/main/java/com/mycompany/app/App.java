@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!...Changes into source code for testing for next version v2.0" );
+        System.out.println( "Hello World!...Changes into source code for testing for next version v3.0" );
     }
 }
